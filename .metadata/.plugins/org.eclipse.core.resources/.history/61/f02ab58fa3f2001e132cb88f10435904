@@ -1,0 +1,5 @@
+package com.cricketScore.Entity;
+
+public class MatchStatus {
+
+}

@@ -1,0 +1,5 @@
+package com.cricketScore.Service;
+
+public class CricketServiceImpl {
+
+}

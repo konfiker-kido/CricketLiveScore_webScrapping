@@ -1,0 +1,5 @@
+package com.cricketScore.Repo;
+
+public interface MatchRepo {
+
+}
